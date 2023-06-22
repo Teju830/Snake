@@ -1,5 +1,5 @@
 # SNAKE-GAME
-** Snake Game Application Using Java Swing**
+**Snake Game Application Using Java Swing**
  
 ## Fuctionalites
 1) Controlling the snake using Left,bottom, right,down key buttons
@@ -11,7 +11,9 @@
  Displaying the score and Game over Message when the game ends
  
  **Images/Screenshots**
+ 
  Game Staring UI Design
+ 
  ![Snakegame_Screen1](https://github.com/Teju830/Snake/assets/71114214/6f3d7ee8-7b21-433e-ac84-672b3e762731)
 
 Snake Eating Apple

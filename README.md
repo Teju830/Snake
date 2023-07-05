@@ -1,5 +1,7 @@
 # SNAKE-GAME
 **Snake Game Application Using Java Swing**
+
+The player controls  a snake, which roams around on a bordered plane, picking up food (or) apple, trying to avoid hitting its own tail or the edges of the playing area. Each time the snake eats a piece of food, its tail grows longer, making the game increasingly difficult.
  
 ## Fuctionalites
 1) Controlling the snake using Left,bottom, right,down key buttons
